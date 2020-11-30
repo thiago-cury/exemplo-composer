@@ -1,0 +1,16 @@
+{
+    "name": "thiagocury/exemplocomposer",
+    "description": "Exemplo composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago Cury",
+            "email": "thiagocury@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "9999999-dev"
+    }
+}
